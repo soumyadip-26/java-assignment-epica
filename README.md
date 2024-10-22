@@ -39,3 +39,5 @@ Ensure you have the following installed:
 Docker and Docker Compose
 JDK 17 or newer (for local development)
 Maven (to build the services)
+
+https://github.com/soumyadip-26/java-assignment-epica
